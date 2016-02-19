@@ -1,0 +1,10 @@
+{
+  "name": "node-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello world app on ubuntu using docker",
+  "author": "Claude-Arnaud PERROT <claude-arnaud.perrot@prestashop.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
